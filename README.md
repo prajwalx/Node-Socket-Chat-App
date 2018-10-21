@@ -1,7 +1,7 @@
 # Node-Socket-Chat-App
 
 ### Youtube WalkThrough
-This project's youtube walkthrough is [here]
+This project's youtube walkthrough is [here](https://youtu.be/GnidC9N0OqQ)
 ## Getting Started
 
 ### Prerequisites
