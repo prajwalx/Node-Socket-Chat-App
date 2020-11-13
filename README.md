@@ -14,3 +14,11 @@ This project's youtube walkthrough is [here](https://youtu.be/GnidC9N0OqQ)
 1. Run `npm install` to install server dependencies.
 
 2. Run `node index` to start the development server.
+
+## Using Nodemon to start server and autotrack changes
+
+1. Install nodemon using command `npm install -g nodemon`
+
+2. If any error occured, use sudo before npm
+
+3. Run `npm run dev` to start the development server
